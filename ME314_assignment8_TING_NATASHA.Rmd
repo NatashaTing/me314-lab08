@@ -4,6 +4,7 @@ author: "Ken Benoit and Slava Mikhaylov"
 output: html_document
 ---
 
+file.rename("ME314_assignment8_LASTNAME_FIRSTNAME.Rmd", ""ME314_assignment8_TING_NATASHA.Rmd"")
 
 ### Exercise 8.1
 
@@ -114,7 +115,6 @@ caret::confusionMatrix(mode = "everything",
 
 
 ### Exercise 8.2
-
 
 (a) Generate a simulated data set with 20 observations in each of three classes (i.e. 60 observations total), and 50 variables.
 
